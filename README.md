@@ -1,4 +1,5 @@
 ### Hi there 👋
+Myself, Karthick Sriram. Am pursuing under - grad in computer science and engineering
 
 <!--
 **karthicksriram/karthicksriram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
